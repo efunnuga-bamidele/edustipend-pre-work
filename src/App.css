@@ -7,3 +7,20 @@
 .nav_bar{
   border-radius: 5px;
 }
+
+.hero_section{
+  font-weight: bold;
+}
+
+.trending_list{
+  background-color: grey;
+  margin-top: 20px;
+  padding: 5px;
+  align-items: center;
+}
+
+.list_item{
+  width: 90%;
+  border-radius: 5px;   
+  margin: 10px 0px 10px 0px;
+}
